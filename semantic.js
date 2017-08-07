@@ -6086,7 +6086,7 @@ $.fn.dropdown = function(parameters) {
               remoteValues = false
             ;
             if(values) {
-              if(typeof values == 'string') {
+              if(typeof values != 'object') {
                 values = [values];
               }
               $.each(values, function(index, value) {
