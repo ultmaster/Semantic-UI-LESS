@@ -8,7 +8,7 @@
 
 @fontName          : 'Open Sans';
 @fontSmoothing     : antialiased;
-@cjkFont           : "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Hiragino Kaku Gothic Pro", Meiryo, "Malgun Gothic";
+@cjkFont           : "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Hiragino Kaku Gothic Pro", Meiryo, "Noto Sans CJK SC", "WenQuanYi Micro Hei";
 @fallbackFont      : Arial, Helvetica, sans-serif;
 
 
